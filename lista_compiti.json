@@ -1,0 +1,50 @@
+{
+    "TASK001": {
+        "id": "TASK001",
+        "descrizione": "Esercizio Python",
+        "alunno_matricola": "MAT001",
+        "stato": "registrato",
+        "data_assegnazione": "2025-12-18 16:08:50",
+        "voto": 8.0
+    },
+    "TASK002": {
+        "id": "TASK002",
+        "descrizione": "assignment gestione_studenti",
+        "alunno_matricola": "MAT002",
+        "stato": "registrato",
+        "data_assegnazione": "2025-12-18 16:38:10",
+        "voto": 8
+    },
+    "TASK003": {
+        "id": "TASK003",
+        "descrizione": "ESC",
+        "alunno_matricola": "MAT002",
+        "stato": "registrato",
+        "data_assegnazione": "2025-12-20 21:16:03",
+        "voto": 7
+    },
+    "TASK004": {
+        "id": "TASK004",
+        "descrizione": "ESERCIZIO JAVA",
+        "alunno_matricola": "MAT004",
+        "stato": "registrato",
+        "data_assegnazione": "2025-12-20 21:48:39",
+        "voto": 6
+    },
+    "TASK005": {
+        "id": "TASK005",
+        "descrizione": "PROVA DICEMBRE",
+        "alunno_matricola": "MAT005",
+        "stato": "assegnato",
+        "data_assegnazione": "2025-12-20 21:50:55",
+        "voto": null
+    },
+    "TASK006": {
+        "id": "TASK006",
+        "descrizione": "ESAME FINE ANNO",
+        "alunno_matricola": "MAT004",
+        "stato": "registrato",
+        "data_assegnazione": "2025-12-20 21:53:50",
+        "voto": 10
+    }
+}

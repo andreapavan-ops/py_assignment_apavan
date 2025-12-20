@@ -1,0 +1,57 @@
+{
+    "MAT001": {
+        "nome": "Marco",
+        "cognome": "Rossi",
+        "email": "marco.rossi@its.it",
+        "matricola": "MAT001",
+        "data_creazione": "2025-12-18 16:08:50",
+        "data_modifica": "2025-12-20 21:12:39",
+        "archiviato": true,
+        "data_archiviazione": "2025-12-20 21:41:46"
+    },
+    "MAT002": {
+        "nome": "ANDREA",
+        "cognome": "PAVAN",
+        "email": "andreapavan67@gmail.com",
+        "matricola": "MAT002",
+        "data_creazione": "2025-12-18 16:37:04",
+        "data_modifica": "2025-12-18 16:37:04",
+        "archiviato": false
+    },
+    "MAT003": {
+        "nome": "Marco",
+        "cognome": "Rinaldi",
+        "email": "marco.rinaldi@example.com",
+        "matricola": "MAT003",
+        "data_creazione": "2025-12-20 21:35:07",
+        "data_modifica": "2025-12-20 21:40:26",
+        "archiviato": false
+    },
+    "MAT004": {
+        "nome": "Giulia",
+        "cognome": "Conti",
+        "email": "giulia.conti@example.com",
+        "matricola": "MAT004",
+        "data_creazione": "2025-12-20 21:36:45",
+        "data_modifica": "2025-12-20 21:36:45",
+        "archiviato": false
+    },
+    "MAT005": {
+        "nome": "Luca",
+        "cognome": "Ferraro",
+        "email": "luca.ferraro@example.com",
+        "matricola": "MAT005",
+        "data_creazione": "2025-12-20 21:37:26",
+        "data_modifica": "2025-12-20 21:37:26",
+        "archiviato": false
+    },
+    "MAT006": {
+        "nome": "Sara",
+        "cognome": "Bianchi",
+        "email": "sara.bianchi@example.com",
+        "matricola": "MAT006",
+        "data_creazione": "2025-12-20 21:37:54",
+        "data_modifica": "2025-12-20 21:37:54",
+        "archiviato": false
+    }
+}
